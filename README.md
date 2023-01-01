@@ -21,7 +21,7 @@ In order to run and develop this app, you will need:
 
 The app includes the following features:
 
-    Trip planner: allows users to create and organize their travel itineraries, including flights and hotels
+   - Trip planner: allows users to create and organize their travel itineraries, including flights and hotels
 
 ## Resources
 

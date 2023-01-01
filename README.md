@@ -1,34 +1,30 @@
-# Fuse - Angular
+# Travel App
 
-Material Design Admin Template with Angular 8 and Angular Material
+This is a single-page web application built with Angular, designed to help users plan and manage their travels. The app features a range of tools and resources, including a trip planner and a travel diary.
 
-## The Community
+## Prerequisites
 
-Share your ideas, discuss Fuse and help each other.
+In order to run and develop this app, you will need:
 
-[Click here](http://fusetheme.com/community) to see our Community page.
+   - Node.js and npm (or Yarn) installed on your local machine
+   - Angular CLI
+   - A web browser to run the app
 
-## Development server
+## Setup
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+   - Clone or download this repository to your local machine
+   - Navigate to the root directory of the project and install the dependencies by running npm install or yarn install
+   - Start the development server by running ng serve
+   - Open a web browser and navigate to http://localhost:4200 to access the app
 
-## Code scaffolding
+## Features
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+The app includes the following features:
 
-## Build
+    Trip planner: allows users to create and organize their travel itineraries, including flights, hotels, and activities
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Resources
 
-## Running unit tests
+For more information on Angular, check out the following resources:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-
+   - Angular documentation https://angular.io/docs

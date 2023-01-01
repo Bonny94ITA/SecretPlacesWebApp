@@ -1,4 +1,4 @@
-# Travel App
+# Secret Places
 
 This is a single-page web application built with Angular, designed to help users plan and manage their travels. The app features a range of tools and resources, including a trip planner and a travel diary.
 
@@ -21,7 +21,7 @@ In order to run and develop this app, you will need:
 
 The app includes the following features:
 
-    Trip planner: allows users to create and organize their travel itineraries, including flights, hotels, and activities
+    Trip planner: allows users to create and organize their travel itineraries, including flights and hotels
 
 ## Resources
 
